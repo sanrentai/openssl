@@ -363,18 +363,17 @@ invalid file "./demo.txt", please make sure the file exists
  - [ ] Encryption and decryption by rc4
  - [ ] Encryption and decryption by rc5
  - [ ] Encryption and decryption by rc6
- 
-  - [ ] NoPadding no padding mode
-  - [ ] ZeroPadding zero padding mode
-  - [ ] PKCS1Padding pkcs1 padding mode
-  - [ ] PKCS5Padding pkcs5 padding mode
-  - [ ] PKCS7Padding pkcs7 padding mode
-  - [ ] TBCPadding tbc padding mode
-  - [ ] AnsiX923Padding ansi x923 padding mode
-  - [ ] ISO10126Padding iso10126 padding mode
-  - [ ] CBC cbc encryption mode
-  - [ ] ECB ecb encryption mode
-  - [ ] CFB cfb encryption mode
-  - [ ] OFB ofb encryption mode
-  - [ ] CTR ctr encryption mode
-  - [ ] GCM gcm encryption mode
+  - [ ] No padding mode
+  - [ ] Zero padding mode
+  - [ ] PKCS1 padding mode
+  - [ ] PKCS5 padding mode
+  - [ ] PKCS7 padding mode
+  - [ ] TBC padding mode
+  - [ ] Ansi x923 padding mode
+  - [ ] ISO10126 padding mode
+  - [ ] CBC encryption mode
+  - [ ] ECB encryption mode
+  - [ ] CFB encryption mode
+  - [ ] OFB encryption mode
+  - [ ] CTR encryption mode
+  - [ ] GCM encryption mode
