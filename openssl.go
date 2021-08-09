@@ -1,5 +1,5 @@
 // @Package openssl
-// @Description A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption
+// @Description a simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption
 // @Page github.com/golang-module/openssl
 // @Version v0.0.1
 // @Author gouguoyin
@@ -21,8 +21,11 @@ type openssl struct {
 }
 
 var (
-	Encode  = newEncode()
-	Decode  = newDecode()
+	// Encode returns a new encode instance
+	Encode = newEncode()
+	// Decode returns a new decode instance
+	Decode = newDecode()
+	// Encrypt returns a new encrypt instance
 	Encrypt = newEncrypt()
 )
 

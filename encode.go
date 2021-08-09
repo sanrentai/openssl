@@ -1,9 +1,12 @@
 package openssl
 
 const (
+	// BASE32 base32 encoding mode
 	BASE32 = "base32"
+	// BASE64 base64 encoding mode
 	BASE64 = "base64"
-	HEX    = "hex"
+	// HEX hex encoding mode
+	HEX = "hex"
 )
 
 // encode defines encode struct.
