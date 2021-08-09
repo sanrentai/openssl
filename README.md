@@ -1,4 +1,6 @@
 # openssl  #
+[![Carbon Release](https://img.shields.io/github/release/golang-module/openssl.svg)](https://github.com/golang-module/openssl/releases)
+![Go Build](https://github.com/golang-module/openssl/actions/workflows/test.yml/badge.svg)
 [![Build Status](https://github.com/golang-module/openssl/workflows/Go/badge.svg)](https://github.com/golang-module/openssl/actions)
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang-module/openssl)](https://goreportcard.com/report/github.com/golang-module/openssl)
 [![codecov](https://codecov.io/gh/golang-module/openssl/branch/main/graph/badge.svg)](https://codecov.io/gh/golang-module/openssl)
